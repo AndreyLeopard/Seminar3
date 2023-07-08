@@ -7,3 +7,12 @@
 ## status
 
 ## commit
+
+## branch
+
+## diff
+
+## log
+
+## checkout
+
